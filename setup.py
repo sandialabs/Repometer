@@ -69,7 +69,7 @@ def run_setup():
     """
     setup(
         name='Repometer',
-        version='1.0',
+        version='1.0.0',
         maintainer='Reed Milewicz and Miranda Mundt',
         maintainer_email='rmilewi@sandia.gov and mmundt@sandia.gov',
         url='github url',
