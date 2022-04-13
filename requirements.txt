@@ -1,0 +1,16 @@
+###### To run manually, call: pip install -r requirements.txt ######
+
+###### Needed for REST API connection ######
+PyGithub == 1.55
+python-gitlab
+
+###### Needed for database connection ######
+mysql-connector-python
+
+###### Needed for testing ######
+requests
+pytest >= 4.6.0
+pytest-mock
+pytest_socket
+testing.mysqld
+pytest-cov
